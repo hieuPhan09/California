@@ -1,0 +1,133 @@
+ID,STATE_NAME,COUNTY,CITY,LATITUDE,LONGITUDE
+1686,California,"Los Angeles",Acton,34.483541,-118.195929
+1689,California,"Los Angeles","Agoura Hills",34.157163,-118.75718
+1697,California,"Los Angeles",Alhambra,34.091436,-118.129288
+1703,California,"Los Angeles",Altadena,34.191187,-118.13919
+1723,California,"Los Angeles",Arcadia,34.132389,-118.026374
+1729,California,"Los Angeles",Artesia,33.866568,-118.068046
+1738,California,"Los Angeles",Avalon,33.331963,-118.343706
+1742,California,"Los Angeles",Azusa,34.12476,-117.903083
+1746,California,"Los Angeles","Baldwin Park",34.084245,-117.969539
+1758,California,"Los Angeles",Bell,33.969177,-118.17205
+1759,California,"Los Angeles","Bell Gardens",33.9775,-118.186111
+1761,California,"Los Angeles",Bellflower,33.886676,-118.126527
+1770,California,"Los Angeles","Beverly Hills",34.0732,-118.3927
+1818,California,"Los Angeles",Burbank,34.186238,-118.300898
+1828,California,"Los Angeles",Calabasas,34.141854,-118.664103
+1850,California,"Los Angeles","Canoga Park",34.199257,-118.59828
+1854,California,"Los Angeles","Canyon Country",34.426203,-118.449011
+1868,California,"Los Angeles",Carson,33.822968,-118.268352
+1873,California,"Los Angeles",Castaic,34.488889,-118.621944
+1886,California,"Los Angeles",Cerritos,33.858333,-118.063889
+1888,California,"Los Angeles",Chatsworth,34.258253,-118.591357
+1901,California,"Los Angeles","City Of Industry",34.0197,-117.9577
+1902,California,"Los Angeles",Claremont,34.109167,-117.718293
+1924,California,"Los Angeles",Compton,33.890654,-118.239044
+1940,California,"Los Angeles",Covina,34.097162,-117.906544
+1950,California,"Los Angeles","Culver City",33.994927,-118.399115
+1975,California,"Los Angeles","Diamond Bar",34.006585,-117.809822
+1987,California,"Los Angeles",Downey,33.94,-118.131667
+1991,California,"Los Angeles",Duarte,34.139444,-117.976389
+2014,California,"Los Angeles","El Monte",34.079142,-118.037108
+2017,California,"Los Angeles","El Segundo",33.924275,-118.411924
+2031,California,"Los Angeles",Encino,34.165479,-118.517542
+2091,California,"Los Angeles",Gardena,33.892463,-118.296122
+2100,California,"Los Angeles",Glendale,34.171606,-118.289892
+2101,California,"Los Angeles",Glendora,34.128663,-117.855155
+2110,California,"Los Angeles","Granada Hills",34.277068,-118.4992
+2134,California,"Los Angeles","Hacienda Heights",33.997741,-117.965205
+2139,California,"Los Angeles","Harbor City",33.797006,-118.299114
+2143,California,"Los Angeles","Hawaiian Gardens",33.82958,-118.072964
+2144,California,"Los Angeles",Hawthorne,33.913214,-118.346978
+2155,California,"Los Angeles","Hermosa Beach",33.864309,-118.395511
+2177,California,"Los Angeles","Huntington Park",33.976879,-118.216053
+2188,California,"Los Angeles",Inglewood,33.955048,-118.355575
+2230,California,"Los Angeles","La Canada Flintridge",34.209282,-118.199008
+2231,California,"Los Angeles","La Crescenta",34.231619,-118.245687
+2237,California,"Los Angeles","La Mirada",33.8953,-118.0024
+2239,California,"Los Angeles","La Puente",34.029428,-117.934098
+2241,California,"Los Angeles","La Verne",34.115905,-117.77077
+2253,California,"Los Angeles","Lake Hughes",34.668297,-118.444719
+2259,California,"Los Angeles",Lakewood,33.8517,-118.1328
+2261,California,"Los Angeles",Lancaster,34.690888,-118.149129
+2266,California,"Los Angeles",Lawndale,33.887908,-118.351014
+2284,California,"Los Angeles",Littlerock,34.547372,-117.957405
+2288,California,"Los Angeles",Llano,34.495914,-117.798841
+2295,California,"Los Angeles",Lomita,33.793339,-118.31693
+2299,California,"Los Angeles","Long Beach",33.7705,-118.1885
+2305,California,"Los Angeles","Los Angeles",33.973093,-118.247896
+2319,California,"Los Angeles",Lynwood,33.924076,-118.201289
+2327,California,"Los Angeles",Malibu,34.0382,-118.7082
+2330,California,"Los Angeles","Manhattan Beach",33.889594,-118.399562
+2336,California,"Los Angeles","Marina Del Rey",33.977876,-118.452475
+2345,California,"Los Angeles",Maywood,33.988992,-118.187685
+2376,California,"Los Angeles","Mission Hills",34.261873,-118.458659
+2383,California,"Los Angeles",Monrovia,34.143959,-118.001376
+2388,California,"Los Angeles",Montebello,34.013342,-118.112986
+2390,California,"Los Angeles","Monterey Park",34.053409,-118.127144
+2392,California,"Los Angeles",Montrose,34.211425,-118.230529
+2406,California,"Los Angeles","Mount Wilson",34.226389,-118.065278
+2411,California,"Los Angeles","Mt Baldy",34.218082,-117.580219
+2427,California,"Los Angeles",Newhall,34.379519,-118.523005
+2441,California,"Los Angeles","North Hills",34.236636,-118.47582
+2442,California,"Los Angeles","North Hollywood",34.16867,-118.371274
+2445,California,"Los Angeles",Northridge,34.236743,-118.546595
+2446,California,"Los Angeles",Norwalk,33.90564,-118.081767
+2485,California,"Los Angeles","Pacific Palisades",34.054097,-118.536874
+2487,California,"Los Angeles",Pacoima,34.258081,-118.420692
+2493,California,"Los Angeles",Palmdale,34.571483,-118.061306
+2498,California,"Los Angeles","Palos Verdes Peninsula",33.770094,-118.374763
+2499,California,"Los Angeles","Panorama City",34.226158,-118.447009
+2501,California,"Los Angeles",Paramount,33.896867,-118.163152
+2504,California,"Los Angeles",Pasadena,34.146762,-118.139119
+2511,California,"Los Angeles",Pearblossom,34.491124,-117.902893
+2523,California,"Los Angeles","Pico Rivera",33.98857,-118.088269
+2543,California,"Los Angeles","Playa Del Rey",33.957745,-118.437314
+2552,California,"Los Angeles",Pomona,34.043268,-117.752086
+2557,California,"Los Angeles","Porter Ranch",34.274191,-118.541235
+2577,California,"Los Angeles","Rancho Palos Verdes",33.787778,-118.357222
+2588,California,"Los Angeles","Redondo Beach",33.830656,-118.383221
+2596,California,"Los Angeles",Reseda,34.200663,-118.539071
+2618,California,"Los Angeles",Rosemead,34.065767,-118.08529
+2623,California,"Los Angeles","Rowland Heights",33.981777,-117.896946
+2643,California,"Los Angeles","San Dimas",34.102263,-117.81694
+2644,California,"Los Angeles","San Fernando",34.287509,-118.435242
+2647,California,"Los Angeles","San Gabriel",34.115486,-118.085658
+2661,California,"Los Angeles","San Marino",34.120698,-118.111745
+2666,California,"Los Angeles","San Pedro",33.733894,-118.291425
+2676,California,"Los Angeles","Santa Clarita",34.459742,-118.488955
+2678,California,"Los Angeles","Santa Fe Springs",33.946407,-118.083801
+2681,California,"Los Angeles","Santa Monica",34.017628,-118.490708
+2707,California,"Los Angeles","Sherman Oaks",34.151407,-118.460325
+2712,California,"Los Angeles","Sierra Madre",34.165101,-118.051916
+2714,California,"Los Angeles","Signal Hill",33.8037,-118.1688
+2734,California,"Los Angeles","South El Monte",34.055676,-118.044381
+2735,California,"Los Angeles","South Gate",33.94617,-118.201349
+2737,California,"Los Angeles","South Pasadena",34.110939,-118.154696
+2747,California,"Los Angeles","Stevenson Ranch",34.381067,-118.582134
+2759,California,"Los Angeles","Studio City",34.143025,-118.391311
+2765,California,"Los Angeles","Sun Valley",34.220907,-118.369853
+2766,California,"Los Angeles",Sunland,34.261025,-118.321359
+2774,California,"Los Angeles",Sylmar,34.30538,-118.432181
+2780,California,"Los Angeles",Tarzana,34.16708,-118.541354
+2787,California,"Los Angeles","Temple City",34.101586,-118.053652
+2799,California,"Los Angeles","Toluca Lake",34.1578,-118.3794
+2801,California,"Los Angeles",Topanga,34.10759,-118.602268
+2803,California,"Los Angeles",Torrance,33.826817,-118.31183
+2814,California,"Los Angeles",Tujunga,34.254389,-118.284856
+2828,California,"Los Angeles","Universal City",34.1378,-118.3563
+2832,California,"Los Angeles",Valencia,34.446608,-118.537437
+2838,California,"Los Angeles","Valley Village",34.167217,-118.398905
+2839,California,"Los Angeles",Valyermo,34.339014,-117.8271
+2840,California,"Los Angeles","Van Nuys",34.2012,-118.4742
+2841,California,"Los Angeles",Venice,33.993772,-118.463463
+2843,California,"Los Angeles","Verdugo City",34.211389,-118.238611
+2857,California,"Los Angeles",Walnut,34.0176,-117.8636
+2872,California,"Los Angeles","West Covina",34.067336,-117.936643
+2873,California,"Los Angeles","West Hills",34.196343,-118.638892
+2874,California,"Los Angeles","West Hollywood",34.090573,-118.378753
+2877,California,"Los Angeles","Westlake Village",34.1462,-118.8013
+2889,California,"Los Angeles",Whittier,34.001119,-118.037139
+2895,California,"Los Angeles",Wilmington,33.785475,-118.264451
+2900,California,"Los Angeles",Winnetka,34.2092,-118.57492
+2911,California,"Los Angeles","Woodland Hills",34.155652,-118.600019
