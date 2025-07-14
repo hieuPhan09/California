@@ -1,0 +1,53 @@
+ID,STATE_NAME,COUNTY,CITY,LATITUDE,LONGITUDE
+1701,California,"San Diego",Alpine,32.828161,-116.754328
+1794,California,"San Diego",Bonita,32.667143,-117.022065
+1795,California,"San Diego",Bonsall,33.294033,-117.18969
+1798,California,"San Diego","Borrego Springs",33.238649,-116.351394
+1800,California,"San Diego",Boulevard,32.671934,-116.319982
+1844,California,"San Diego","Camp Pendleton",33.327929,-117.409452
+1846,California,"San Diego",Campo,32.660491,-116.490459
+1859,California,"San Diego","Cardiff By The Sea",33.025265,-117.274371
+1861,California,"San Diego",Carlsbad,33.160241,-117.324998
+1898,California,"San Diego","Chula Vista",32.64,-117.0833
+1932,California,"San Diego",Coronado,32.68069,-117.169823
+1966,California,"San Diego","Del Mar",32.971474,-117.237314
+1971,California,"San Diego",Descanso,32.872971,-116.602732
+1994,California,"San Diego",Dulzura,32.615172,-116.728523
+2008,California,"San Diego","El Cajon",32.777726,-116.919055
+2030,California,"San Diego",Encinitas,33.036944,-117.291111
+2033,California,"San Diego",Escondido,33.110117,-117.069987
+2043,California,"San Diego",Fallbrook,33.369015,-117.228952
+2130,California,"San Diego",Guatay,32.848889,-116.556389
+2184,California,"San Diego","Imperial Beach",32.578289,-117.11478
+2196,California,"San Diego",Jacumba,32.624934,-116.195184
+2198,California,"San Diego",Jamul,32.716289,-116.832332
+2204,California,"San Diego",Julian,33.053355,-116.565812
+2235,California,"San Diego","La Jolla",32.845488,-117.25208
+2236,California,"San Diego","La Mesa",32.760431,-117.011541
+2258,California,"San Diego",Lakeside,32.856181,-116.920089
+2273,California,"San Diego","Lemon Grove",32.73323,-117.032646
+2278,California,"San Diego","Lincoln Acres",32.667778,-117.071944
+2404,California,"San Diego","Mount Laguna",32.872222,-116.4175
+2416,California,"San Diego","National City",32.674916,-117.089747
+2462,California,"San Diego",Oceanside,33.1951,-117.3776
+2489,California,"San Diego",Pala,33.377662,-117.071725
+2497,California,"San Diego","Palomar Mountain",33.322778,-116.877778
+2509,California,"San Diego","Pauma Valley",33.306285,-116.959552
+2529,California,"San Diego","Pine Valley",32.835047,-116.512733
+2562,California,"San Diego",Potrero,32.620477,-116.603748
+2564,California,"San Diego",Poway,32.975619,-117.040223
+2572,California,"San Diego",Ramona,33.029349,-116.853548
+2573,California,"San Diego",Ranchita,33.24055,-116.539121
+2578,California,"San Diego","Rancho Santa Fe",33.0231,-117.1996
+2642,California,"San Diego","San Diego",32.71852,-117.159316
+2659,California,"San Diego","San Luis Rey",33.294367,-117.306403
+2660,California,"San Diego","San Marcos",33.144386,-117.169716
+2671,California,"San Diego","San Ysidro",32.551944,-117.042222
+2686,California,"San Diego","Santa Ysabel",33.147579,-116.69635
+2687,California,"San Diego",Santee,32.848636,-116.986154
+2723,California,"San Diego","Solana Beach",32.993739,-117.2598
+2740,California,"San Diego","Spring Valley",32.7447,-116.998
+2782,California,"San Diego",Tecate,32.592205,-116.606397
+2835,California,"San Diego","Valley Center",33.249046,-117.012232
+2854,California,"San Diego",Vista,33.1694,-117.242
+2860,California,"San Diego","Warner Springs",33.303666,-116.721385
